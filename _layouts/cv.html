@@ -1,0 +1,80 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
+</head>
+
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/study2.png" alt="Education" width="70" height="70"></p>
+    <p align="center">&#8226 I'm a <strong> Bay State Fellow </strong> master's student at <strong> <a href="https://www.cics.umass.edu" target="_blank">UMass Amherst CICS</a> </strong>.</p>
+    <p align="center">&#8226 I am also a <strong> member of the <a href="https://github.com/Information-Fusion-Lab-Umass/" target="_blank">Information Fusion Lab</a> </strong>, supervised by <strong> <a href="https://www.cics.umass.edu/people/fiterau-brostean-madalina" target="_blank">Prof. Ina Fiterau</a> </strong>.</p>
+    <p align="center" class="bottom-three">&#8226 I received a <strong> B.S. Computer Science </strong> degree from UMass Amherst in 2018.</p>
+      
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
+    <p align="center">&#8226 I am a <strong>Teaching Assistant</strong> for the graduate level course, <strong> <a href="https://research.google.com" target="_blank">CS589 Machine Learning</a> </strong>.</p>
+    <p align="center">&#8226 With pleasure, I review for <strong> <a href="https://wimlworkshop.org" target="_blank">NeurIPS Women in Machine Learning Workshop</a> </strong> abstract submissions.</p>
+    <p align="center" class="bottom-three">&#8226 I am a former <strong>software engineer intern</strong> at <strong> <a href="https://careers.microsoft.com/us/en/" target="_blank">Microsoft</a> </strong>.</p>
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/computer2.png" alt="Computer Skills" width="80" height="80"></p>
+    <p align="center">&#8226 I use <strong>Pytorch</strong> and <strong>scikit-learn</strong> often in my work. </p>
+    <p align="center">&#8226 I like to <strong>mess around</strong> with existing work/code, <strong>think</strong> of ideas, <strong>prototype+evaluate</strong> and (hopefully) <strong>expand</strong>. <strong>Repeat</strong>.</p>
+    <p align="center" class="bottom-three">&#8226 I write <strong>modular code</strong>. </p>
+    
+    {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
