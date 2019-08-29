@@ -1,8 +1,8 @@
 title:            Yi Ren Fung's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              //jponttuset.github.io
-url:	127.0.0.1:6000
+url:              https://yrf1.github.io
+# url:	127.0.0.1:6000
 #https://jponttuset.github.io
 disqus_shortname: yfung
 
@@ -44,7 +44,7 @@ highlighter: rouge
 markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
-  
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
