@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CVPR 2018: Are GANs the new deep?"
+title: "Testing"
 description: "CVPR 2018: Are GANs the new deep?"
 comments: true
 ---
