@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Another light on being a female from an economically disadvantaged family in CS and the career field in general"
-description: "Sharing some of my life experience and thoughts. Might be insightful, or helpful if it resonates with you."
+description: "Thoughts on Life."
 comments: true
 ---
 
 
-It's that time of the year when a major vision conference [releases the papers to the public](http://openaccess.thecvf.com/CVPR2018.py), so it's time to check how deep learning is doing in their titles.<br>
+Sharing some of my life experience and thoughts. Might be insightful, or helpful if it resonates with you.
+
 <br>
 At ICCV 2017, we realized that [GANs were growing strong]({{ site.url }}/gans-et-al-growing-strong/), and before we did a set [of]({{ site.url }}/dl-lstm-gan-evolution) [posts]({{ site.url }}/deep-learning-scraping/) of [the]({{ site.url }}/deep-learning-plateau/) [deep learning]({{ site.url }}/deep-learning-takes-over-again/) [saga]({{ site.url }}/deep-learning-evolution/).<br>
 <br>
