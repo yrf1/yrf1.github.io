@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing"
-description: "CVPR 2018: Are GANs the new deep?"
+title: "Another light on being a female from an economically disadvantaged family in CS and the career field in general"
+description: "Sharing some of my life experience and thoughts. Might be insightful, or helpful if it resonates with you."
 comments: true
 ---
 
