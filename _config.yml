@@ -2,8 +2,6 @@ title:            Yi Ren Fung's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://yrf1.github.io
-# url:	127.0.0.1:6000
-#https://jponttuset.github.io
 disqus_shortname: yfung
 
 # Owner/author information
@@ -13,7 +11,7 @@ owner:
   bio:            I'm from the Greater Boston area. Currently in Amherst, MA. Passionate about machine learning, technology, running, and exploring the world.
   email:          yfung@cs.umass.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
+  twitter: YiFung10
   linkedin: yifung1
   google_scholar: eUae2K0AAAAJ
   google_plus: 113718226018314522413
