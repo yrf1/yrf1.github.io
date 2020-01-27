@@ -16,8 +16,9 @@ I'll start with the difficulties I've went through.
 
 <br>
 Here's how I've learnt to deal with it over the years.
-* A
-* B
+* Gain the knowledge necessary to fare well as women in CS. This includes stepping beyond the comfort zones from a possible conservative upbringing, and diversify your circle of peers. Make many different friends. So you don't have to feel like being in a situation in which you desperately need to befriend someone who can provide you information on future opportunities etc.
+* Shift between different identities and learn how to navigate level. Just an example, this is what works for me: 
+* Be confident! Confidence is the key ingredient for career women. For the same level of knowledge, you will come out more successful if you project what you know more confidently and speak up to ask meaningful questions.
 <br />
 
 General thoughts? Work hard. Play hard. Don't be afraid, and live life to the fullest!
