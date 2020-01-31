@@ -20,7 +20,7 @@ I have had an unsuccessful round of PhD applications, but 1-2 years later, I fin
 <br />
 
 <br>
-Finally, many thanks to Rick Freedman, Sandeep Polisetty, Joie Yeahuay Wu, Deep Chakraborty, and others for their help and support. Really appreciate it!
+Many thanks to Rick Freedman, Sandeep Polisetty, Joie Yeahuay Wu, Deep Chakraborty, and others for their help and support. Really appreciate it!
 <br />
 
 
