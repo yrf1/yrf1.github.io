@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "X"
+title: "Tips on applying to a PhD in computer science"
 description: "Y."
 comments: true
 ---
 
 
-Sharing some of my life experience and thoughts. Might be insightful, or helpful if it resonates with you.
+When you are applying for a CS PhD, you can be taking an important step in your life. Here are some tips on applying so that you can place your best foot forward. 
 
 <br>
 I'll start with the difficulties I've went through.
