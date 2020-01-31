@@ -10,7 +10,8 @@ When you are applying for a CS PhD, you can be taking an important step in your 
 
 <br>
 I have had an unsuccessful round of PhD applications, but 1-2 years later I finally landed myself into UIUC and a top-choice lab. Comparing my experience, these are what I've done differently and what I think helped.
-* Start your Personal Statement early
+* **Start your Personal Statement early**
+  Testing
 * Position your Personal Statement wisely
 * Apply to many PhD programs
 * Submit your application early
