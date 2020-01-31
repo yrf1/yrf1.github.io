@@ -9,7 +9,7 @@ comments: true
 When you are applying for a CS PhD, you can be taking an important step in your life. Here are some tips on applying so that you can place your best foot forward. 
 
 <br>
-I have had an unsuccessful round of PhD applications, but two years later I finally landed myself into UIUC and a lab that is my top choice. Based on my experience, here are valuable things that I've learned:
+I have had an unsuccessful round of PhD applications, but 1-2 years later I finally landed myself into UIUC and a top-choice lab. Comparing my experience, this is what I've done differently and what I think helped.
 * A
 * A
 <br />
