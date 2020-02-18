@@ -9,6 +9,3 @@ image:
 
 I am a <a href="https://www.cics.umass.edu/content/bay-state-programs" target="_blank">Bay State Fellow</a> studying computer science at <a href="https://www.cics.umass.edu/" target="_blank">UMass Amherst</a>. I previously interned at <a href="https://careers.microsoft.com/" target="_blank">Microsoft</a>. Currently, I am part of the <a href="https://github.com/Information-Fusion-Lab-Umass" target="_blank">Information Fusion Lab</a> under the supervision of <a href="https://www.cics.umass.edu/people/fiterau-brostean-madalina" target="_blank">Prof. Ina Fiterau</a>. 
 
-<br />
-I'll most likely be joining the University of Illinois at Urbana Champaign (UIUC) to pursue my PhD at the intersection of machine learning, natural language processing, and computer science applications!
-
