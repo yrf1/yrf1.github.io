@@ -7,5 +7,10 @@ image:
   feature: trees.jpg
 ---
 
-I am a <a href="https://www.cics.umass.edu/content/bay-state-programs" target="_blank">Bay State Fellow</a> studying computer science at <a href="https://www.cics.umass.edu/" target="_blank">UMass Amherst</a>. I previously interned at <a href="https://careers.microsoft.com/" target="_blank">Microsoft</a>. Currently, I am part of the <a href="https://github.com/Information-Fusion-Lab-Umass" target="_blank">Information Fusion Lab</a> under the supervision of <a href="https://www.cics.umass.edu/people/fiterau-brostean-madalina" target="_blank">Prof. Ina Fiterau</a>. 
+I am a first year Ph.D. at the Blender Lab of <a href="https://cs.illinois.edu/" target="_blank">UIUC</a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank">Prof. Heng Ji</a>. 
+
+I have broad interests in natural language processing, machine learning, and artificial intelligence in general.
+
+I did two internships at <a href="https://developer.amazon.com/en-US/alexa/" target="_blank">Amazon Alexa</a> and <a href="https://www.microsoft.com/" target="_blank">Microsoft</a>. I always look for exciting opportunities!
+
 
