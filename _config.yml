@@ -1,4 +1,4 @@
-title:            Yi Ren Fung's site
+title:            Yi's website
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://yrf1.github.io
@@ -8,8 +8,8 @@ disqus_shortname: yfung
 owner:
   name:           Yi Ren Fung
   avatar:         yfung.png
-  bio:            I'm from the Greater Boston area. Currently in Amherst, MA. Passionate about machine learning, technology, running, and exploring the world.
-  email:          yfung@cs.umass.edu
+  bio:            I grew up from the Greater Boston area. Currently in Champaign, IL. Passionate about NLP, IE, tech, and exploring the world.
+  email:          yifung2@illinois.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: YiFung10
   linkedin: yifung1
