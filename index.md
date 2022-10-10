@@ -13,7 +13,8 @@ Some of my recent research projects/collaborations/publications include:
 * Fine-Grained Claim Extraction with Attribute Knowledge: a novel NewsClaim benchmark (EMNLP'22 paper); a directed QA framework for the task (COLING'22 paper)
 * Misinformation Detection: reasoning across multimedia and background knowledge (ACL'21 paper); cross-document misinformation detection (NAACL'22 paper)
 * Knowledge Consistency Reasoning: Kompare (KDD'21 paper)
+
 <br/><br/>
-其它：长大后了解到，我与1930～1939年间民国二号人物的亲戚关系。。。当中，有值得分享和思索的事情与盼望 ～ 未完待续。
+其它：长大后了解到，我与1930～1939年间民国二号人物的亲戚关系。当中有值得分享和思索的事情与盼望, 未完待续。
 
 
