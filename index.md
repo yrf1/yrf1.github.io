@@ -15,6 +15,6 @@ Some of my recent research projects/collaborations/publications include:
 * Knowledge Consistency Reasoning: Kompare (KDD'21 <a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467128" target="_blank">paper</a>)
 
 <br/>
-其它：长大后了解到，我与民国1930-1939年二号人物之间的亲戚关系。当中有值得分享和思索的事情与盼望, 直至当下依然适用。等一个合适的时间点 ～ 未完待续
+其它：成年后了解到我与民国1930-1939年间二号人物的亲戚关系，当中有值得分享和思索的事情与期望，直至当下依然适用。等一个合适的时间点 ～ 未完待续
 
 
