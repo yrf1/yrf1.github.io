@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am a Ph.D. candidate at the <a href="https://blender.cs.illinois.edu/" target="_blank">Blender Lab</a> of <a href="https://cs.illinois.edu/" target="_blank">UIUC</a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank">Prof. Heng Ji</a>. My research interests are in natural language processing, knowledge reasoning, and computation for the social good.
+I am a <b>Ph.D. candidate</b> at the <a href="https://blender.cs.illinois.edu/" target="_blank">Blender Lab</a> of <a href="https://cs.illinois.edu/" target="_blank"><b>UIUC</b></a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank"><b>Prof. Heng Ji</b></a>. My research interests are in natural language processing, knowledge reasoning, and computation for the social good.
 <br/><br/>
 Some of my recent research and collaborations include:
 * <b>Fine-Grained Claim Extraction with Attribute Knowledge</b>: a novel NewsClaim benchmark (EMNLP'22 <a href="https://arxiv.org/abs/2112.08544" target="_blank">paper</a>); a zero-shot directed QA framework for the task (COLING'22 <a href="https://blender.cs.illinois.edu/paper/claimqa2022.pdf" target="_blank">paper</a>)
