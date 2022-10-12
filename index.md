@@ -15,6 +15,6 @@ Some of my recent research and collaborations include:
 * <b>Knowledge Reasoning</b>: Kompare (KDD'21 <a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467128" target="_blank">paper</a>), COVID KG Construction and Drug Report Generation (NAACL'21 Best Demo <a href="https://aclanthology.org/2021.naacl-demos.8/" target="_blank">paper</a>)
 
 <br/>
-其它：成年后了解到 我与1930-1939年主政一方的民国二号人物之间的亲戚关系，当中有值得分享和思索的事情与期望依然适用于当下。[<a href="https://yrf1.github.io/history/" target="_blank">更多</a>]
+<sub>其它：成年后了解到 我与1930-1939年主政一方的民国二号人物之间的亲戚关系，当中有值得分享和思索的事情与期望依然适用于当下。[<a href="https://yrf1.github.io/history/" target="_blank">更多</a></sub>]
 
 
