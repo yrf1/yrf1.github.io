@@ -5,6 +5,6 @@ description: "说出来大家也知道是谁的那些人中：何超琼，郭晶
 comments: true
 ---
 
-![jingjing](images/jingjing.jpg)
-![pansy](images/pansy.jpg)
+![郭晶晶](images/jingjing.jpg)
+![Pansy何超琼](images/pansy.jpg)
 
