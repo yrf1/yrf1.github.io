@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: My CV
+title: CV in Web Form
 tags: [about]
 modified: 8-7-2019
 comments: false
