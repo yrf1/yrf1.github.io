@@ -15,8 +15,6 @@ I am a <b>Ph.D. candidate</b> at the <a href="https://blender.cs.illinois.edu/" 
 * <b><font color="orange">Intelligent Agent with Tool Learning Capability</font></b>: CREATOR, LLM tool creation through abstraction reasoning <sup><sub>(EMNLP'23 Findings <a href="https://arxiv.org/pdf/2305.14318.pdf" target="_blank">paper</a>)</sub></sup>; CRAFT, customizing LLMs through specialized toolset creation and retrieval <sup><sub>(<a href="https://arxiv.org/abs/2309.17428" target="_blank">preprint</a>)</sub></sup>
 * <b><font color="blue">Foundation Model Hallucination Control and Alignment in Honesty/Faithfulness</font></b>: R-Tuning, teaching LLMs to refuse uncertain questions <sup><sub>(<a href="https://arxiv.org/abs/2311.09677" target="_blank">preprint</a>)</sub></sup>
 
-<br><br>
-
-<b><u>News</u>:</b> I'm on the academic job market!
-<br>
-I'm excited to announce that I'll be giving three back-to-back talks at HKU, HKUST-GZ, and SUTD in the first week of December (listed in chronological order), before heading to EMNLP with 4 paper publications to share.
+<b><u>News</u>:</b> 
+* I'm on the academic job market!
+* Excited to announce that I'll be giving three back-to-back talks at HKU, HKUST-GZ, and SUTD in the first week of December (listed in chronological order), before heading to EMNLP with 4 paper publications to share.
