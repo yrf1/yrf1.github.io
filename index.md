@@ -16,9 +16,9 @@ I am a <b>Ph.D. candidate</b> at the <a href="https://blender.cs.illinois.edu/" 
 * <b><font color="blue">Foundation Model Hallucination Control and Alignment in Honesty/Faithfulness</font></b>: R-Tuning, teaching LLMs to refuse uncertain questions<sup><sub>[<a href="https://arxiv.org/abs/2311.09677" target="_blank">14</a>]</sub></sup>
 
 <b><u>News</u>:</b> 
-* I'm on the academic job market!
-* Excited to announce that I'll be giving three back-to-back talks at <a href="https://hkunlp.github.io/" target="_blank">HKU</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST-GZ</a>, and <a href="https://www.sutd.edu.sg/" target="_blank">SUTD</a> in the first week of December (listed in chronological order), before heading to EMNLP with 4 paper publications to share.
-* I have been the student leader of organizing the undergrad/MS student research intern program at Blender Lab. For prospective students interested, remember to fill out our lab's consolidated application form <sup><sub><a>here</a></sub></sup>.
+* <b>I'm on the academic job market!</b>b>
+* Excited to announce that I'll be giving three back-to-back talks at <a href="https://hkunlp.github.io/" target="_blank"><b>HKU</b>I</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST-GZ</a>, and <a href="https://www.sutd.edu.sg/" target="_blank">SUTD</a> in the first week of December (listed in chronological order), before heading to EMNLP with 4 paper publications to share.
+* I have been the student leader of organizing the undergrad/MS student research intern program at Blender Lab. For prospective students interested, remember to fill out our lab's consolidated application form <a href="https://forms.gle/fzUeXJvkNB6jM6sU6" target="_blank">here</a>
 
 <b><u>Outreach & Empowerment</u>:</b> 
-My plan is to dedicate 30 minutes each week to offer guidance/suggestions/mentorship, especially for students from underrepresented groups or whoever is in need. If you would like to chat about life, career path, graduate school applications, or research ideas related to AI/ML, feel free to file the form to schedule a meeting.
+My plan is to dedicate 30 minutes each week to offer guidance/suggestions/mentorship, especially for students from underrepresented groups or whoever is in need. If you would like to chat about life, career path, graduate school applications, or research ideas related to AI/ML, feel free to file the <a>form</a> to schedule a meeting.
