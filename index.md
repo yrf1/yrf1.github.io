@@ -17,7 +17,7 @@ I am a <b>Ph.D. candidate</b> at the <a href="https://blender.cs.illinois.edu/" 
 
 <b><u>News</u>:</b> 
 * <b>I'm on the academic job market!</b>
-* Excited to announce that I'll be giving three back-to-back talks at <a href="https://hkunlp.github.io/" target="_blank"><b>HKU</b></a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank"><b>HKUST-GZ</b></a>, and <a href="https://www.sutd.edu.sg/" target="_blank"><b>SUTD</b></a> in the first week of December (listed in chronological order), before heading to EMNLP with 4 paper publications to share.
+* Excited to announce that I'll be giving back-to-back talks at <a href="https://hkunlp.github.io/" target="_blank"><b>HKU</b></a> and <a href="https://www.sutd.edu.sg/" target="_blank"><b>SUTD</b></a> in the week of EMNLP. 
 * I have been the student leader of organizing the undergrad/MS student research intern program at Blender Lab. For prospective students interested, remember to fill out our lab's consolidated <a href="https://forms.gle/fzUeXJvkNB6jM6sU6" target="_blank">application form</a>.
 
 <b><u>Outreach & Empowerment</u>:</b> 
