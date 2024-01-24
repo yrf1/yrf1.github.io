@@ -17,6 +17,7 @@ I am a <b>Ph.D. candidate</b> at the <a href="https://blender.cs.illinois.edu/" 
 
 <b><u>News</u>:</b> 
 * <b>I'm on the academic job market!</b>
+* Over winter break, we have released an exciting <a href="https://arxiv.org/abs/2401.00812" target="_blank">survey paper</a> on "How Code Empowers LLM", which spawned out of the advanced NLP course that I TA'ed in the fall. We also released a timely & relevant <a href="https://arxiv.org/pdf/2312.10160.pdf" target="_blank">research paper</A> on "Large Vision-Language Model Chart Understanding". Check them out!
 * Excited to announce that I'll be giving back-to-back talks at <a href="https://hkunlp.github.io/" target="_blank"><b>HKU</b></a> and <a href="https://www.sutd.edu.sg/" target="_blank"><b>SUTD</b></a> in the week of EMNLP. 
 * I have been the student leader of organizing the undergrad/MS student research intern program at Blender Lab. For prospective students interested, remember to fill out our lab's consolidated <a href="https://forms.gle/fzUeXJvkNB6jM6sU6" target="_blank">application form</a>.
 
