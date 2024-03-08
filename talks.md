@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: talks
 permalink: /talks/
 title: Talks
 tagline: A List of Talks
