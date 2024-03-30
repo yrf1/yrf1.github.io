@@ -26,7 +26,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-   - title: Group
+  - title: Group
     url: /group/
   - title: Publications
     url: /publications/
