@@ -11,7 +11,9 @@ I studied <b>Ph.D.</b> at the <a href="https://cs.illinois.edu/" target="_blank"
 
 <br>
 <b>Recent News:</b>
-* [Aug] I attended ACL'24 🇹🇭 and presented three poster presentations - the research vibe & discussion interest there is amazing!
-* [June] I'm super excited to share that Shujin Wu's research project which I mentored is available as preprint online now! Check out: MACAROON, enhancing LVLM knowledge boundary awareness via proactive engagement<sup><sub>[<a href="https://arxiv.org/abs/2406.14137" target="_blank">15</a>]</sub></sup>. Shujin is amongst the best student I've ever mentored and she'll be applying to PhD programs in the 2024-2025 academic cycle - feel free to keep a watch on her!
+* [Sept] Actively recruiting undergraduate students to drive research projects, in joint collaboration scheme with MIT CSAIL/Media Lab groups. Please fill out application form <a href="https://docs.google.com/forms/d/1K6t_SgCA-TdBSPRAwhP0XvVnbC_r7Cs7GGUk5pWh6aY/edit#:~:text=https%3A//forms.gle/TPyHKQ7g1BZePkvG8" target="_blank">here</a> if interested.
+* [Aug] Attended ACL'24 🇹🇭 and presented three poster presentations - nice research vibe & discussion interest there!
+* [June] Super excited to share that Shujin Wu's research project which I mentored is available as preprint online now! Check out: MACAROON, enhancing LVLM knowledge boundary awareness via proactive engagement<sup><sub>[<a href="https://arxiv.org/abs/2406.14137" target="_blank">15</a>]</sub></sup>. 
+Do keep a watch on her as she'll be applying to PhD programs in the 2024-2025 academic cycle!
 
 
