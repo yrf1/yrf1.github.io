@@ -8,6 +8,7 @@ image:
 ---
 
 📢 I'll be directing the <b>renAI lab</b> at the <a href="https://hkust.edu.hk/" target="_blank"><b>Hong Kong University of Science and Technology</b></a>, as an incoming Tenure-Track Assistant Professor.
+
 <br><br>
 
 I completed my <b>Ph.D.</b> studies at the <a href="https://cs.illinois.edu/" target="_blank"><b>University of Illinois</b></a>, where I have been fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank"><b>Heng Ji</b></a>. I hold a <b>Postdoctoral Visiting Researcher</b> position at <a href="https://www.mit.edu/" target="_blank"><b>MIT</b></a>, hosted by <a href="https://www.mit.edu/~ppliang/" target="_blank"><b>Paul Liang</b></a>.
