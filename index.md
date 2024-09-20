@@ -11,8 +11,8 @@ I studied <b>Ph.D.</b> at the <a href="https://cs.illinois.edu/" target="_blank"
 
 <br>
 <b>Recent News:</b>
+* [Sept] We're organizing the AI4Research Workshop at AAAI'25, stay tuned please.
 * [Aug] Attended ACL'24 🇹🇭 and presented three poster presentations - nice research vibe & discussion interest there!
-* [June] Super excited to share that Shujin Wu's research project which I mentored is available as preprint online now! Check out: MACAROON, enhancing LVLM knowledge boundary awareness via proactive engagement<sup><sub>[<a href="https://arxiv.org/abs/2406.14137" target="_blank">15</a>]</sub></sup>. 
-Keep a watch on Shujin as she applies to PhD programs in the 2024-2025 academic cycle!
+* [June] Our paper on enhancing LVLM knowledge boundary awareness via proactive engagement is available as online preprint<sup><sub>[<a href="https://arxiv.org/abs/2406.14137" target="_blank">1</a>]</sub></sup> (update: accepted into EMNLP'24 findings).
 
 
