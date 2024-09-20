@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-<p style="color:blue;">I'll be directing the renAI lab at the Hong Kong University of Science and Technology, as an incoming Tenure-Track Assistant Professor.</p>
+<p style="color:blue;">I'll be directing the renAI lab at the <a href="https://hkust.edu.hk/" target="_blank"><b>Hong Kong University of Science and Technology</b></a>, as an incoming Tenure-Track Assistant Professor.</p>
 <br>
 I completed my <b>Ph.D.</b> studies at the <a href="https://cs.illinois.edu/" target="_blank"><b>University of Illinois</b></a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank"><b>Heng Ji</b></a>. I hold a <b>Postdoctoral Visiting Researcher</b> position at <b>MIT</b>, hosted by <a href="https://www.mit.edu/~ppliang/" target="_blank"><b>Paul Liang</b></a>.
 <br>
