@@ -7,7 +7,11 @@ image:
   feature: trees.jpg
 ---
 
-I studied <b>Ph.D.</b> at the <a href="https://cs.illinois.edu/" target="_blank"><b>University of Illinois</b></a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank"><b>Prof. Heng Ji</b></a>. My research focus centers around <b>socially-situated human-centered trustworthy NLP/AI</b> with <b>multimedia knowledge reasoning</b> capability and <b>scalable alignment</b> principles. My work on fundamental model architectural mechanisms and frameworks empowering <b><i>harmless</i></b>, <b><i>helpful</i></b>, and <i><b>honest</b></i> information communication has been recognized by <b>three best/oustanding paper awards</b> at <b>top AI/NLP conferences</b>.
+<p style="color:blue;">I'll be directing the renAI lab at the Hong Kong University of Science and Technology, as an incoming Tenure-Track Assistant Professor.</p>
+
+I completed my <b>Ph.D.</b> studies at the <a href="https://cs.illinois.edu/" target="_blank"><b>University of Illinois</b></a>, where I am fortunately advised by <a href="https://blender.cs.illinois.edu/hengji.html" target="_blank"><b>Heng Ji</b></a>. I hold a <b>Postdoctoral Visiting Researcher</b> position at <b>MIT</b>, hosted by <a href="https://www.mit.edu/~ppliang/" target="_blank"><b>Paul Liang</b></a>.
+
+My research focus centers around <b>socially-situated human-centered trustworthy NLP/AI</b> with <b>multimedia knowledge reasoning</b> capability and <b>scalable alignment</b> principles. My work on fundamental model architectural mechanisms and frameworks empowering <b><i>harmless</i></b>, <b><i>helpful</i></b>, and <i><b>honest</b></i> information communication has been recognized by <b>three best/oustanding paper awards</b> at <b>top AI/NLP conferences</b>.
 
 <br>
 <b>Recent News:</b>
