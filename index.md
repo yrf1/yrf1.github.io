@@ -13,4 +13,5 @@ My research focus centers around <b>socially-situated human-centered trustworthy
 
 <br>
 <b>Recent News:</b>
+* [Oct] I'll be heading to EMNLP'24 with three papers to present, look fwd to seeing many new and familiar faces in Miami!
 * [Sept] We're organizing the  <a href="https://sites.google.com/view/ai4research2024" target="_blank"><b>AAAI'25 Workshop on AI4Research</b></a> - submit your research by Nov 22!
