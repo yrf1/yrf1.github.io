@@ -25,14 +25,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Group (Join Us!)
-    url: /group/
+  #- title: Group (Join Us!)
+  #  url: /group/
   - title: Publications
     url: /publications/
-  - title: Talks
-    url: /talks/
-  - title: Service and Awards
-    url: /service_and_awards/
+  #- title: Talks
+  #url: /talks/
+  #- title: Service and Awards
+  #url: /service_and_awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
