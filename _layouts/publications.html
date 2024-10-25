@@ -9,6 +9,43 @@
 
 <body class="page">
 <style>
+
+#pub-container{margin:auto;padding: 0 0em;max-width:1080px;text-align:left;padding-top:30px;max-width:1080px}
+#pub-container .subtitle{color:var(--main-color);}
+#pub-container .subtitle a {font-size:18px; color: var(--secondary-link-color); font-weight:400}
+#pub-container .subtitle a.activated {color:#333333; font-weight:600}
+#pub-container .subtitle a.activated:focus,
+#pub-container .subtitle a.activated:hover {text-decoration:none;cursor:initial}
+
+#pub-container .subtitle-aux {font-size:1rem}
+#pub-container .subtitle-aux a.activated {color:#333333}
+#pub-container .subtitle-aux a.activated:focus,
+#pub-container .subtitle-aux a.activated:hover {text-decoration:none;cursor:initial}
+#pub-container .subtitle-aux .note{margin-left:1em;color:#999999;text-decoration:none;font-size:14px}
+
+#pub-card-container{}
+#pub-card-container>h5{margin-bottom: 5px 0}
+#pub-card-container .pub-card{width: 100%;padding-bottom:15px;font-size:1rem}
+#pub-card-container .pub-card .col-l{text-align:center;padding-top:10px}
+#pub-card-container .pub-card .col-r{padding-top:10px}
+@media (min-width: 768px) {
+  #pub-card-container .pub-card .col-l{flex:0 0 30%;max-width:30%}
+  #pub-card-container .pub-card .col-r{flex:0 0 70%;max-width:70%}
+}
+#pub-card-container .pub-card img{width:100%;margin:0 auto}
+#pub-card-container .pub-card-body{width:100%;background:transparent;padding-left:0px}
+#pub-card-container .pub-card .title{font-weight:600;font-size:1rem;margin-bottom:4px;line-height:1.4}
+#pub-card-container .pub-card .authors{font-weight:400;color:#666666;margin-bottom:4px;line-height:1.4}
+#pub-card-container .pub-card .authors a{color:#666666}
+#pub-card-container .pub-card .authors u{color:#333333;font-weight:600;text-decoration:none}
+#pub-card-container .pub-card .conference{color:#333333;font-weight:600}
+#pub-card-container .pub-card .note{display:block;color:#999999;text-decoration:none;font-size:14px}
+#pub-card-container .pub-card .info{margin-bottom:0;}
+#pub-card-container .row{margin:0}
+#pub-card-container .col-l,
+#pub-card-container .col-r{vertical-align:top;display:inline-block;margin:0;padding-left:0px}
+
+
     /*********************************
      The list of publication items
      *********************************/
